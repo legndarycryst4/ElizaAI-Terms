@@ -4,14 +4,13 @@
 
 ## 1. Introduction and Acceptance of Terms
 
-Welcome to ElizaAI. These Terms of Service ("Terms") constitute a legally binding agreement between you ("User", "you", or "your") and Alice regarding your access to and use of the Alice services ("Services") provided via the Discord platform. By accessing, registering for, or using Alice, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any other applicable policies. If you do not agree to these Terms in their entirety, you must not access or use ElizaAI.
+Welcome to ElizaAI. These Terms of Service ("Terms") constitute a legally binding agreement between you ("User", "you", or "your") and ElizaAI regarding your access to and use of the ElizaAI services ("Services") provided via the Discord platform. By accessing, registering for, or using ElizaAI, you acknowledge that you have read, understood, and agree to be bound by these Terms, our Privacy Policy, and any other applicable policies. If you do not agree to these Terms in their entirety, you must not access or use ElizaAI.
 
 ## 2. Definitions
 
-- **Alice**: The Discord-based service operated by us.
-- **User**: Any individual or entity accessing or using Alice.
-- **Services**: All features, content, and functionalities provided by Alice.
-- **Premium Features**: Additional functionalities accessible through verified cryptocurrency payments.
+- **Empires**: The Discord-based service operated by us.
+- **User**: Any individual or entity accessing or using ElizaAI.
+- **Services**: All features, content, and functionalities provided by ElizaAI.
 - **Data**: Information collected as described in Section 6.
 
 ## 3. Eligibility and Registration
